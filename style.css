@@ -1,0 +1,55 @@
+/**
+ * freebitco.in autoclicker v1.0
+ * https://github.com/gabigutu/freebitco-in-autoclicker
+ * 
+ * Date: 2017:07:21
+ * @author	Berilac <office@berilac.com>
+ */
+body {
+	top: 45px;
+}
+div#berilac_freebitco_in_autoclicker {
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;	
+	background-color: #111;
+	width: 100%;
+	position: fixed;
+	top: 45px;
+	z-index: 999;
+	padding: 5px 20px !important;
+	color: #fff;
+}
+div#berilac_freebitco_in_autoclicker button {
+	line-height: 20px !important;
+}
+div#berilac_freebitco_in_autoclicker #bfbia_left {
+	float: left;
+	width: 30%;
+	font-size: 25px;	
+}
+div#berilac_freebitco_in_autoclicker #bfbia_center {
+	float: left;
+	width: 40%;
+}
+div#berilac_freebitco_in_autoclicker #bfbia_right {
+	float: left;
+	width: 30%;
+}
+div#berilac_freebitco_in_autoclicker .bfbia_title {
+	
+}
+div#berilac_freebitco_in_autoclicker .bfbia_logo {
+	font-family: 'Prosto One', cursive;
+	font-weight: bold;
+}
+div#berilac_freebitco_in_autoclicker .bfbia_logo .bfbia_free {
+ 	color: #97FF6B;
+}
+div#berilac_freebitco_in_autoclicker .bfbia_logo .bfbia_bitcoin {
+	color: #00CCFF;
+}
+div#berilac_freebitco_in_autoclicker #bfbia_timer {
+	display: inline !important;
+	width: 70px !important;
+	margin: 0px !important;
+}
